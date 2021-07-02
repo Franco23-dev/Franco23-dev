@@ -1,0 +1,12 @@
+### Hi stranger 👋
+- 👋 I'm @Franco23-dev
+- 👀 I'm interested in programming and software development.
+- 🌱 I'm currently learning different types of tools in order to have a knowledge that will help me to progress both work and personally.
+- 💞️ I am looking to collaborate on projects in different branches that are focused on technology and software development.
+- 🔭 I am currently working on different projects of my own that help me to improve and train many to be able to work in some kind of company.
+- 🌱 I am currently learning Angular, Java, Python and MongoDB.
+- 👯 I am looking to collaborate in some collaborative project that will introduce me to what would be the working world. 
+- 🤔 I am looking for help to find some kind of job in some company.
+- 📫 How to contact me. You can do it through my linkedin which is: linkedin.com/in/franco-vera/
+- 😄 Pronouns: Frankiito or Fowler.
+- ⚡ Fun fact: "There are 10 types people, those who know binaries and those who don't..." 
