@@ -7,6 +7,6 @@
 - 🌱 I am currently learning Angular, Java, Python and MongoDB.
 - 👯 I am looking to collaborate in some collaborative project that will introduce me to what would be the working world. 
 - 🤔 I am looking for help to find some kind of job in some company.
-- 📫 How to contact me. You can do it through my linkedin which is: linkedin.com/in/franco-vera/
+- 📫 How to contact me. You can do it through my linkedin which is: <b><a href="linkedin.com/in/franco-vera/">linkedin.com/in/franco-vera/</a></b>
 - 😄 Pronouns: Frankiito or Fowler.
 - ⚡ Fun fact: "There are 10 types people, those who know binaries and those who don't..." 
