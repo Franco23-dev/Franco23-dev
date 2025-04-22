@@ -1,12 +1,12 @@
-### Hi stranger 👋
-- 👋 I'm @Franco23-dev
-- 👀 I'm interested in programming and software development.
-- 🌱 I'm currently learning different types of tools in order to have a knowledge that will help me to progress both work and personally.
-- 💞️ I am looking to collaborate on projects in different branches that are focused on technology and software development.
-- 🔭 I am currently working on different projects of my own that help me to improve and train many to be able to work in some kind of company.
-- 🌱 I am currently learning Angular, Java, Python and MongoDB.
-- 👯 I am looking to collaborate in some collaborative project that will introduce me to what would be the working world. 
-- 🤔 I am looking for help to find some kind of job in some company.
-- 📫 How to contact me. You can do it through my linkedin which is: <b><a href="linkedin.com/in/franco-vera/">linkedin.com/in/franco-vera/</a></b>
-- 😄 Pronouns: Frankiito or Fowler.
-- ⚡ Fun fact: "There are 10 types people, those who know binaries and those who don't..." 
+Hola 👋
+👋 Soy @Franco23-dev
+👀 Estoy interesado en analista de datos y programación
+🌱 Actualmente estoy aprendiendo diferentes tipos de herramientas para tener un conocimiento que me ayude a progresar tanto laboral como personalmente.
+💞️ Busco colaborar en proyectos de diferentes ramas que estén enfocados a la tecnología y desarrollo de software.
+🔭 Actualmente estoy trabajando en diferentes proyectos propios que me ayuden a mejorar y capacitarme muchos para poder trabajar en algún tipo de empresa.
+🌱 Actualmente estoy aprendiendo Power BI, SQL, Python
+👯 Busco colaborar en algún proyecto colaborativo que me introduzca en lo que sería el mundo laboral.
+🤔 Busco ayuda para encontrar algún tipo de trabajo en alguna empresa.
+📫 Cómo contactar conmigo. Podéis hacerlo a través de mi linkedin que es: linkedin.com/in/franco-vera/
+😄 Pronombres: Frankiito
+⚡ Dato curioso: "Hay 10 tipos de personas, las que saben de binarios y las que no..."
