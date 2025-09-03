@@ -45,4 +45,3 @@
 <br/> 
 
 -----
-Credit: [Jiji C.](https://github.com/DataOnATangent)
