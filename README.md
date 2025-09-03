@@ -1,4 +1,4 @@
-<h3> :woman: &nbsp;Hola 👋 </h3>
+<h3> 🚹: &nbsp;Hola 👋 </h3>
 
  - 👋 Soy @Franco23-dev
  - 👀 Estoy interesado en analista de datos y programación
